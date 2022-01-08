@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FormularioApp</string>
+
+
+    <string name="name">Nombre completo</string>
+
+    <string name="phone">Teléfono</string>
+
+    <string name="search_image">Search Image</string>
+
+    <string name="hint_name">Nombre y Apellidos</string>
+    <string name="hint_age">Edad</string>
+    <string name="hint_location">Ubicación</string>
+    <string name="hint_num_phone">Número de Teléfono</string>
+
+    <string name="btnEdit">Editar</string>
+
+    <string name="image">imagen</string>
+
+
+</resources>
